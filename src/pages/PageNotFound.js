@@ -1,7 +1,7 @@
 import { useState, useEffect } from 'react';
 import { Link } from 'react-router-dom';
-import LightLogo from '../assets/logo-light.png';
 import DarkLogo from '../assets/logo-dark.png';
+import LightLogo from '../assets/logo-light.png';
 import { useTitle } from '../hooks/useTitle';
 
 export const PageNotFound = () => {
